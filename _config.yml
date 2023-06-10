@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "黄 韬"
   avatar           : "profile.jpg"
-  bio              : "中科院杭州医学所 \n算法工程师"
-  location         : 
-  employer         :
+  bio              : "算法工程师"
+  location         : "浙江-杭州"
+  employer         : "中科院杭州医学所"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "htao36@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-7645-4290"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
