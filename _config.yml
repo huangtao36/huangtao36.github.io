@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tao Huang"
 title_separator          : "-"
-name                     : &name "黄 韬"
+name                     : &name "Tao Huang (黄韬)"
 description              : &description "personal description"
 url                      : https://huangtao36.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
